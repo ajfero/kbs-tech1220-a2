@@ -15,13 +15,13 @@ This project now includes a complete `index.html` page for the Chatbox - Booking
 
 ## How to run
 
-1. Open `/home/runner/work/kbs-tech1220-a2/kbs-tech1220-a2/index.html` in your browser.
+1. Open `./index.html` in your browser.
 2. Interact with the embedded chat widget.
 3. Booking count updates are stored in browser `localStorage` under `chatbox_booking_count`.
 
 ## Team and idea contributors
 
 - **Mimi Zuo** — Product Manager
-- **Danilo Caetano** — Charbox Trainer
+- **Danilo Caetano** — Chatbox Trainer
 - **Anthony Fernandez** — Software Engineer
-- **Kristian Mota** — Speaker Presentator
+- **Kristian Mota** — Speaker Presenter
