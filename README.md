@@ -1,6 +1,6 @@
 
 # Kaplan Business school
-# TECH1200 - Fundamentals of Programming
+## TECH1200 - Fundamentals of Programming
 
 A smart appointment-booking chatbot that helps users schedule, reschedule, and manage bookings easily.
 
