@@ -22,6 +22,6 @@ This project now includes a complete `index.html` page for the Chatbox - Booking
 ## Team and idea contributors
 
 - **Mimi Zuo** — Product Manager
-- **Danilo Caetano** — Chatbox Trainer
-- **Anthony Fernandez** — Software Engineer
-- **Kristian Mota** — Speaker Presenter
+- **Danilo Caetano** — AI Engineer (Chatbox Trainer)
+- **Anthony Fernandez** — Software Engineer (Builder)
+- **Kristian Mota** — Speaker Presenter 
