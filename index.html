@@ -356,7 +356,15 @@
     window.addEventListener('message', function (event) {
       console.log('[Chatbox] postMessage received | origin:', event.origin, '| data:', event.data);
 
-      const trustedOrigin = /^https:\/\/([a-z0-9-]+\.)?(jotform\.com|jotfor\.ms)(:\d+)?$/i.test(event.origin);
+      const trustedOrigins = new Set([
+        'https://cdn.jotfor.ms',
+        'https://jotfor.ms',
+        'https://www.jotfor.ms',
+        'https://jotform.com',
+        'https://www.jotform.com',
+        'https://agent.jotform.com'
+      ]);
+      const trustedOrigin = trustedOrigins.has(event.origin);
       if (!trustedOrigin) return;
 
       let data = event.data;
