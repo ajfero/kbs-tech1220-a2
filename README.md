@@ -21,6 +21,9 @@ This project now includes a complete `index.html` page for the Chatbox - Booking
 2. Interact with the embedded chat widget.
 3. Booking count updates are stored in browser `localStorage` under `chatbox_booking_count`.
 
+## Training the Chatbox AI Agent
+To train the Chatbox AI agent, you can use the KNOWLEDGE_BASE.md file as a reference for the information and context that the agent should be trained on. You can use this information to create training data for the agent, which can be done using a tool like Jotform's AI training interface or any other machine learning platform that supports natural language processing.
+
 ## Team and idea contributors
 
 - **Mimi Zuo** — Product Manager
