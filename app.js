@@ -1,5 +1,5 @@
 const STORAGE_KEY = 'chatbox_booking_count';
-const BASE_COUNT = 24;
+const BASE_COUNT = 0;
 
 const countEl = document.getElementById('booking-count');
 const cardEl = document.getElementById('booking-card');
